@@ -8,7 +8,7 @@
 
 ## 📌 What is Hyōsei?
 
-> **Hyōsei** means "expression of sincerity" in Japanese — capturing the spirit of fair, transparent, and meaningful evaluations in educational and innovation spaces.
+> **“Hyōsei”** is a coined Japanese-inspired name combining the ideas of expression (表) and sincerity (誠) — representing the platform’s mission of honest evaluation and transparent feedback.
 
 This landing page highlights the core features and philosophy of Hyōsei, and serves as a point of contact for potential collaborators, institutions, and fairs.
 
